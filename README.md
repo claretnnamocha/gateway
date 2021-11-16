@@ -1,1 +1,1 @@
-# api-template
+# api-gateway
